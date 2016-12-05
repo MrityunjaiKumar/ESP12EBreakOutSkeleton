@@ -24,18 +24,18 @@ g_7       | TXD             |TX0
 
 <br/>
 #Macro Preprocessor for arduino</br>
-\#define v_2 13      //GPIO13    // MOSI
-\#define v_3 12      //GPIO12    // MISO
-\#define v_4 14      //GPIO14    //SCK
-\#define v_5 16      //GPIO16
-\#define v_6 adc     //ADC
-\#define v_7 reset   //RESET
-\#define g_2 15      //GPIO15    //SS
-\#define g_3 2       //GPIO29    //TX1
-\#define g_4 4       //GPIO4     //SDA
-\#define g_5 5       //GPIO5     //SCL
-\#define g_6 rxd     //RXD       //RX0
-\#define g_7 txd     //TXD       //TX0
+\#define v_2 13      //GPIO13    // MOSI  <br/>
+\#define v_3 12      //GPIO12    // MISO  <br/>
+\#define v_4 14      //GPIO14    //SCK    <br/>
+\#define v_5 16      //GPIO16             <br/>
+\#define v_6 adc     //ADC                <br/>
+\#define v_7 reset   //RESET              <br/>
+\#define g_2 15      //GPIO15    //SS     <br/>
+\#define g_3 2       //GPIO29    //TX1    <br/>
+\#define g_4 4       //GPIO4     //SDA    <br/>
+\#define g_5 5       //GPIO5     //SCL    <br/>
+\#define g_6 rxd     //RXD       //RX0    <br/>
+\#define g_7 txd     //TXD       //TX0    <br/>
 
 <br/>
 #Reference 
