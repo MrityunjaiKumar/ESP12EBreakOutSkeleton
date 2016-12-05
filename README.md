@@ -24,7 +24,7 @@ g_7       | TXD             |TX0
 
 <br/>
 #Macro Preprocessor for arduino</br>
-\#define v_2 13      //GPIO13    // MOSI  <br/>
+\#define v_2 13	   ..//GPIO13    // MOSI  <br/>
 \#define v_3 12      //GPIO12    // MISO  <br/>
 \#define v_4 14      //GPIO14    //SCK    <br/>
 \#define v_5 16      //GPIO16             <br/>
